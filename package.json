@@ -75,7 +75,7 @@
     "vscode-js-debug-browsers": "^1.0.4",
     "vscode-nls": "^5.0.0",
     "vscode-tas-client": "^0.1.22",
-    "ws": "^7.5.0"
+    "ws": "^7.5.10"
   },
   "prettier": {
     "trailingComma": "all",
